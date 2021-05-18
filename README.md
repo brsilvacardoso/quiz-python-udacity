@@ -1,6 +1,6 @@
 # Programa Nanodegree Introdução à Programação
 
-Quiz desenvolvido em Python em que foram tratados pontos como:
+Quiz desenvolvido em Python, durante o Programa Nanodegree Introdução à Programação da Udacity, em que foram tratados pontos como:
 
 * Conceitos fundamentais de programação em Python.
 * Verificações lógicas.
