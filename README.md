@@ -1,4 +1,4 @@
-# Programa Nanodegree Introdução à Programação
+# Quiz em Python
 
 Quiz desenvolvido em Python, durante o Programa Nanodegree Introdução à Programação da Udacity, em que foram tratados pontos como:
 
